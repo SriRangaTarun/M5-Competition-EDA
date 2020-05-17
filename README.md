@@ -1,2 +1,2 @@
 ## M5 Competition EDA 📈
-This is my EDA on the M5 Sales Forecasting competition on Kaggle. I explore the Walmart sales data in-depth and demonstrate different forecasting algorithms that can be used to predict future sales. View the NB at https://t.co/je0m3BAUoa.
+This is my EDA on the M5 Sales Forecasting competition on Kaggle. I explore the Walmart sales data in-depth and demonstrate different forecasting algorithms that can be used to predict future sales. View it at https://t.co/je0m3BAUoa.
